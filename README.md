@@ -20,6 +20,7 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 02 | Read & Print Name | Input Validation, String Trimming | [View Code](./02_Read_And_Print_Name/02_Read_And_Print_Name.cpp) |
 | 03 | Odd or Even | Enums, Namespaces, Error Handling | [View Code](./03_Check_Even_Odd_Number/03_Check_Even_Odd_Number.cpp) |
 | 04 | Hire a Driver (Case 1) | Business Logic Isolation, Multi-Criteria Validation | [View Code](./04_Hire_A_Driver_Case_1/04_Hire_A_Driver_Case_1.cpp) |
+| 05 | Hire a Driver (Case 2) | Logic Branching (OR), Complex Eligibility Rules | [View Code](./05_Hire_A_Driver_Case_2/05_Hire_A_Driver_Case_2.cpp) |
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git`
