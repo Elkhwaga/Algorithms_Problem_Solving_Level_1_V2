@@ -14,8 +14,8 @@ To ensure scalability and maintainability, I follow a **Layered Architecture (Se
 
 | # | Problem Title | Core Concepts | Solution Link |
 | :--- | :--- | :--- | :--- |
-| 01 | Print Your Name | OOP Basics, Layered Design | [View Code](./01_Print_Your_Name.cpp) |
-| 02 | Read & Print Name | Input Validation, String Trimming | [View Code](./02_Read_And_Print_Name.cpp) |
+| 01 | Print Your Name | OOP Basics, Layered Design | [View Code](./01_Print_Your_Name) |
+| 02 | Read & Print Name | Input Validation, String Trimming | [View Code](./02_Read_And_Print_Name) |
 | 03 | Odd or Even | Logic Branching, Flow Control | [Coming Soon] |
 
 ## 🎯 Project Goals
