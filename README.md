@@ -19,7 +19,7 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 01 | Print Your Name | OOP Basics, Layered Design | [View Code](./01_Print_Your_Name) |
 | 02 | Read & Print Name | Input Validation, String Trimming | [View Code](./02_Read_And_Print_Name) |
 | 03 | Odd or Even | Enums, Namespaces, Error Handling | [View Code](./03_Check_Even_Odd_Number) |
-
+| 04 | Hire a Driver (Case 1) | Business Logic Isolation, Multi-Criteria Validation | [View Code](./04_Hire_A_Driver_Case_1) |
 
 ## 🚀 How to Run
 1. Clone the repository.
