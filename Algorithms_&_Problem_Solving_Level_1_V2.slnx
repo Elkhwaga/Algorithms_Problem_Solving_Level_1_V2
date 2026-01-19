@@ -7,4 +7,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="01_Print_Your_Name/01_Print_Your_Name.vcxproj" />
+  <Project Path="02_Read_And_Print_Name/02_Read_And_Print_Name.vcxproj" />
 </Solution>
