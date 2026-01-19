@@ -18,7 +18,7 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | :--- | :--- | :--- | :--- |
 | 01 | Print Your Name | OOP Basics, Layered Design | [View Code](./01_Print_Your_Name) |
 | 02 | Read & Print Name | Input Validation, String Trimming | [View Code](./02_Read_And_Print_Name) |
-| 03 | Odd or Even | Enums, Namespaces, Error Handling | [View Code](./03_Check_Even_Odd) |
+| 03 | Odd or Even | Enums, Namespaces, Error Handling | [View Code](./03_Check_Even_Odd_Number) |
 
 ## 🚀 How to Run
 1. Clone the repository.
