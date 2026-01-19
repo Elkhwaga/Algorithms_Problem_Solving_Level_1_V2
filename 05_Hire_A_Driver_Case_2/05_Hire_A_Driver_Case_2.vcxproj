@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="05_Hire_A_Driver_Case_2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
