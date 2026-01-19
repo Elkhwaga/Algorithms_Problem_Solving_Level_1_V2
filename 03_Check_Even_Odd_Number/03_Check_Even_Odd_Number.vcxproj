@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="03_Check_Even_Odd_Number.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
