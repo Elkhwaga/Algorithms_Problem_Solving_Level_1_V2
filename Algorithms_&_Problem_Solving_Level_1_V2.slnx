@@ -6,10 +6,12 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
-  <Project Path="01_Print_Your_Name/01_Print_Your_Name.vcxproj" />
-  <Project Path="02_Read_And_Print_Name/02_Read_And_Print_Name.vcxproj" />
-  <Project Path="03_Check_Even_Odd_Number/03_Check_Even_Odd_Number.vcxproj" />
-  <Project Path="04_Hire_A_Driver_Case_1/04_Hire_A_Driver_Case_1.vcxproj" />
-  <Project Path="05_Hire_A_Driver_Case_2/05_Hire_A_Driver_Case_2.vcxproj" />
-  <Project Path="06_Full_Name/06_Full_Name.vcxproj" />
+  <Project Path="01_Print_Your_Name/01_Print_Your_Name.vcxproj" Id="abd98363-06d8-4ebb-a06d-b67ec3f69224" />
+  <Project Path="02_Read_And_Print_Name/02_Read_And_Print_Name.vcxproj" Id="50a12099-b863-4dc2-b30c-137f155f4e58" />
+  <Project Path="03_Check_Even_Odd_Number/03_Check_Even_Odd_Number.vcxproj" Id="c37df01a-ca5b-4509-9082-dcebdda079f3" />
+  <Project Path="04_Hire_A_Driver_Case_1/04_Hire_A_Driver_Case_1.vcxproj" Id="bc54b760-67db-4b67-8505-3e4d29f199d1" />
+  <Project Path="05_Hire_A_Driver_Case_2/05_Hire_A_Driver_Case_2.vcxproj" Id="e421e379-01b2-4bc9-a3e9-8c61b118b0d6" />
+  <Project Path="06_Full_Name/06_Full_Name.vcxproj" Id="74165c23-dd84-4e59-acb4-6dfb0050802a" />
+  <Project Path="07_Half_Number/07_Half_Number.vcxproj" Id="ac772174-a18b-4cb5-9d39-46f5f4dfb0ae" />
+  <Project Path="08_Mark_Pass_Fail/08_Mark_Pass_Fail.vcxproj" Id="e088090d-887e-47a1-95fa-82dce8964ff0" />
 </Solution>
