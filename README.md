@@ -22,6 +22,7 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 04 | Hire a Driver (Case 1) | Business Logic Isolation, Multi-Criteria Validation | [View Code](./04_Hire_A_Driver_Case_1/04_Hire_A_Driver_Case_1.cpp) |
 | 05 | Hire a Driver (Case 2) | Logic Branching (OR), Complex Eligibility Rules | [View Code](./05_Hire_A_Driver_Case_2/05_Hire_A_Driver_Case_2.cpp) |
 | 06 | Print Full Name | Immutable Objects, STL Trimming (find_if) | [View Code](./06_Full_Name/06_Full_Name.cpp) |
+| 07 | Half of a Number | Floating Point Precision, Input Stream Recovery | [View Code](./07_Half_Number/07_Half_Number.cpp) |
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git`
