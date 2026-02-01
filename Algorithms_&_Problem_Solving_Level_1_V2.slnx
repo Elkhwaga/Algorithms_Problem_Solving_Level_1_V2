@@ -16,4 +16,5 @@
   <Project Path="08_Mark_Pass_Fail/08_Mark_Pass_Fail.vcxproj" Id="e088090d-887e-47a1-95fa-82dce8964ff0" />
   <Project Path="09_Sum_Of_3_Numbers/09_Sum_Of_3_Numbers.vcxproj" Id="5ba01dc1-23af-4e9c-9a82-9e36b0b47adc" />
   <Project Path="10_Average_Of_3_Marks/10_Average_Of_3_Marks.vcxproj" Id="fd9a96ed-dc42-42ed-baa8-ab5977e2459e" />
+  <Project Path="11_Average_Pass_Fail/11_Average_Pass_Fail.vcxproj" Id="e1b83cf3-d8b4-4ba0-9dc6-1ddd64a9fcd6" />
 </Solution>
