@@ -26,6 +26,8 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 08 | Mark Pass/Fail | Range Validation, Enum-based Status, Strict Layering | [View Code](./08_Mark_Pass_Fail/08_Mark_Pass_Fail.cpp) |
 | 09 | Sum of 3 Numbers | Layered Calculation, Input Stream Management | [View Code](./09_Sum_Of_3_Numbers/09_Sum_Of_3_Numbers.cpp) |
 | 10 | Average of 3 Marks | Logic Reusability, Precision Formatting (iomanip) | [View Code](./10_Average_Of_3_Marks/10_Average_Of_3_Marks.cpp) |
+| 11 | Average Pass/Fail | OOP Layered Architecture, Input Validation, Enum-based Status, Repeatable Flow | [View Code](./11_Average_Pass_Fail/11_Average_Pass_Fail.cpp) |
+
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git`
