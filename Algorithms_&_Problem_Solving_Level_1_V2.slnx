@@ -17,4 +17,5 @@
   <Project Path="09_Sum_Of_3_Numbers/09_Sum_Of_3_Numbers.vcxproj" Id="5ba01dc1-23af-4e9c-9a82-9e36b0b47adc" />
   <Project Path="10_Average_Of_3_Marks/10_Average_Of_3_Marks.vcxproj" Id="fd9a96ed-dc42-42ed-baa8-ab5977e2459e" />
   <Project Path="11_Average_Pass_Fail/11_Average_Pass_Fail.vcxproj" Id="e1b83cf3-d8b4-4ba0-9dc6-1ddd64a9fcd6" />
+  <Project Path="12_Max_of_2_Numbers/12_Max_of_2_Numbers.vcxproj" Id="47fb6ac9-a5bc-4104-9399-b718189b0386" />
 </Solution>
