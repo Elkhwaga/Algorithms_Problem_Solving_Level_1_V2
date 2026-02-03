@@ -19,4 +19,5 @@
   <Project Path="11_Average_Pass_Fail/11_Average_Pass_Fail.vcxproj" Id="e1b83cf3-d8b4-4ba0-9dc6-1ddd64a9fcd6" />
   <Project Path="12_Max_of_2_Numbers/12_Max_of_2_Numbers.vcxproj" Id="47fb6ac9-a5bc-4104-9399-b718189b0386" />
   <Project Path="13_Max_of_3_Numbers/13_Max_of_3_Numbers.vcxproj" Id="698d5c96-cd6c-4d1e-8eea-6dd65a951209" />
+  <Project Path="14_Swap_Numbers/14_Swap_Numbers.vcxproj" Id="e5e314d8-c0c9-4817-9b62-7535c07ba1f4" />
 </Solution>
