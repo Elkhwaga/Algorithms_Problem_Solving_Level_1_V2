@@ -29,6 +29,8 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 11 | Average Pass/Fail | OOP Layered Architecture, Input Validation, Enum-based Status, Repeatable Flow | [View Code](./11_Average_Pass_Fail/11_Average_Pass_Fail.cpp) |
 | 12 | Max of 2 Numbers | Input Validation, Templated Class, Layered OOP | [View Code](./12_Max_of_2_Numbers/12_Max_of_2_Numbers.cpp) |
 | 13 | Max of 3 Numbers | Layered OOP, Template Methods, Input Validation | [View Code](./13_Max_of_3_Numbers/13_Max_of_3_Numbers.cpp) |
+| 14 | Swap Numbers | Layered OOP, Templates, Input Validation | [View Code](./14_Swap_Numbers/14_Swap_Numbers.cpp) |
+
 
 ## 🚀 How to Run
 1. Clone the repository: `git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git`
