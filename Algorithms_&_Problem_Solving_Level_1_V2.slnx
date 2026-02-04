@@ -21,4 +21,5 @@
   <Project Path="13_Max_of_3_Numbers/13_Max_of_3_Numbers.vcxproj" Id="698d5c96-cd6c-4d1e-8eea-6dd65a951209" />
   <Project Path="14_Swap_Numbers/14_Swap_Numbers.vcxproj" Id="e5e314d8-c0c9-4817-9b62-7535c07ba1f4" />
   <Project Path="15_Rectangle_Area/15_Rectangle_Area.vcxproj" Id="b5b84f91-b097-4899-b559-e16bfd20a97a" />
+  <Project Path="16_Rectangle_area_Through_Diagonal_and_side_Area/16_Rectangle_area_Through_Diagonal_and_side_Area.vcxproj" Id="92cd277f-9712-4abc-840d-c397e5fca564" />
 </Solution>
