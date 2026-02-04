@@ -1,16 +1,53 @@
-﻿# 🚀 C++ Programming Journey: Engineering Approach
+﻿# 🚀 C++ Programming Journey – Engineering Approach
 
-Welcome to my repository for C++ Level 1 challenges. This project goes beyond basic problem-solving by applying **Software Engineering Principles** and **Object-Oriented Programming (OOP)**.
+![C++](https://img.shields.io/badge/C%2B%2B-17-blue?style=for-the-badge&logo=c%2B%2B)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented-success?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Layered-informational?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-Principles-brightgreen?style=for-the-badge)
+![Engineering Mindset](https://img.shields.io/badge/Mindset-Engineering%20First-black?style=for-the-badge)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202026-purple?style=for-the-badge)
 
-## 🛠 Architectural Overview
-I follow a **Layered Architecture (Separation of Concerns)** to ensure code is clean, maintainable, and scalable:
+---
 
-* **Domain/Business Logic:** Core logic encapsulated in specialized classes (e.g., `NumberChecker`, `EligibilityChecker`).
-* **Infrastructure/Utility:** Generic helpers for input validation, string manipulation, and stream management (e.g., `InputReader`, `Utils`).
-* **Presentation Layer:** Handles data formatting and console output (e.g., `ResultFormatter`, `Presenter`).
-* **Control Layer:** The `ApplicationFlow` orchestrator that manages the execution sequence and connects all layers.
+## 📌 Overview
 
+This repository contains **Level 1 C++ problem-solving challenges**, implemented using a **Software Engineering mindset**, not just basic coding.
 
+Each problem is treated as a **mini software system**, applying:
+- Object-Oriented Programming (OOP)
+- Clean Code principles
+- Separation of Concerns
+- Layered Architecture
+
+The goal is to build **strong engineering fundamentals** from the very first level.
+
+---
+
+## 🧠 Architectural Philosophy
+
+The project follows a **Layered Architecture** to keep responsibilities clear and code maintainable:
+
+### 🔹 Input Layer
+Responsible for:
+- Reading user input
+- Validating data
+- Recovering input streams  
+Examples: `InputHandler`, `InputReader`
+
+### 🔹 Business / Domain Layer
+Encapsulates core logic and rules  
+Examples:
+- `MaxCalculator`
+- `EligibilityChecker`
+- `AreaCalculator`
+
+### 🔹 Infrastructure Layer
+Low-level utilities shared across the system  
+Examples: `Utils`, stream helpers
+
+### 🔹 Application Flow (Control Layer)
+Coordinates execution without containing business logic  
+Example: `ApplicationFlow`
 
 ## 📂 Problem Index
 
@@ -32,18 +69,43 @@ I follow a **Layered Architecture (Separation of Concerns)** to ensure code is c
 | 14 | Swap Numbers | Layered OOP, Templates, Input Validation | [View Code](./14_Swap_Numbers/14_Swap_Numbers.cpp) |
 | 15 | Rectangle Area | Input Validation, Layered OOP, Domain Encapsulation | [View Code](./14_Swap_Numbers/14_Swap_Numbers.cpp) |
 
+---
 
+## ▶️ How to Run
 
-## 🚀 How to Run
-1. Clone the repository: `git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git`
-2. Open the project in **Visual Studio** or any C++ IDE.
-3. Each problem is contained in its own directory with a dedicated README explaining the logic.
-4. Compile and run the desired `.cpp` file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Elkhwaga/Algorithms_Problem_Solving_Level_1_V2.git
+2. Open the solution or desired `.cpp` file using **Visual Studio Community 2026**
+3. Each problem has:
+- Separate folder
+- Clean .cpp file
+- Dedicated README.md
 
-## 🎯 Project Goals
-* Mastering C++ syntax and STL (Standard Template Library).
-* Writing **Clean Code** that is easy for other developers to read and maintain.
-* Developing an "Engineering Mindset" before moving to advanced software architecture levels.
+4. Build & Run any problem independently
 
 ---
+
+## 🏗 Project Structure
+- Each problem is self-contained
+- No shared global state
+- Independent build & execution
+- Focus on readability over tricks
+
+---
+
+## 🎯 Learning Goals
+- Master C++ fundamentals and STL
+- Practice Clean Code from day one
+- Think in rules, layers, and responsibilities
+- Build a strong base for advanced OOP & Architecture
+
+---
+
+## 👨‍💻 Author
+
+- Mohamed Elkhwaga
+- Aspiring Software Engineer
+- Learning by building real, structured systems 🚀
+
 *Developed with ❤️ as part of my learning journey in Software Engineering.*
