@@ -69,6 +69,7 @@ Example: `ApplicationFlow`
 | 14 | Swap Numbers | Layered OOP, Templates, Input Validation | [View Code](./14_Swap_Numbers/14_Swap_Numbers.cpp) |
 | 15 | Rectangle Area | Input Validation, Layered OOP, Domain Encapsulation | [View Code](./15_Rectangle_Area/15_Rectangle_Area.cpp) |
 | 16 | Rectangle Area from Diagonal and Side | Layered OOP, Input Validation, Domain Encapsulation, Arithmetic Logic | [View Code](./16_Rectangle_area_Through_Diagonal_and_side_Area/16_Rectangle_area_Through_Diagonal_and_side_Area.cpp) |
+| 17 | Triangle Area | Layered OOP, Input Validation, Domain Encapsulation | [View Code](./17_Triangle_Area/17_Triangle_Area.cpp) |
 
 ---
 
